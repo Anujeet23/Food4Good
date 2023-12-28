@@ -1,0 +1,1 @@
+setListOfRestaurent(json.data.cards[2].data.data.cards);
