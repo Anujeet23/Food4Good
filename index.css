@@ -1,0 +1,215 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shimmer-card{
+  margin: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0;
+}
+/* Shimmer */
+/* In your Tailwind CSS configuration or HTML file */
+
+/* 
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.logo{
+    width: 155px;
+}
+
+
+.nav-items{
+    padding: 0px 30px;
+}
+.nav-items>ul{
+    font-size: 24px;
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 65px;
+}
+
+.res-card{
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    
+    overflow: hidden; 
+    cursor: pointer;
+    display: flex; 
+    flex-direction: column; 
+
+.res-card:hover{
+    border: 1px solid black;
+}
+
+.search{
+    width: 300px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.res-logo{
+    width: 100%;
+    height: auto; 
+    max-height: 45%;
+    border-radius: 5px;
+}
+
+
+.res-card h3, .res-card h4 {
+    margin: 5px 0;
+}
+
+.filter-btn{
+    margin: 5px;
+    cursor: pointer;
+}
+
+#search-btn{
+    cursor: pointer;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+
+.login{
+    width: 80px;
+    padding: 0 20px;
+    cursor: pointer;
+    border-radius: 30%;
+}
+
+.filter{
+    display: flex;
+}
+
+
+.user-card{
+    padding: 10px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#profile {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+#tagline{
+  color: #555;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+
+
+
+
+.menu {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    color: #666;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+  }
+  
+  li:hover {
+    background-color: #f9f9f9; 
+  }
+  
+  .link-to-menu {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .link-to-menu:hover {
+    color: #e44d26; 
+  }
+  
+  .menu-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .menu-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+ 
+  .menu-category {
+    margin-bottom: 15px;
+  }
+  
+  .menu-item {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+   */
